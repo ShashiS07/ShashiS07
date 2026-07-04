@@ -1,5 +1,15 @@
 # 💫 About Me:
-I'm currently working on React.js.<br>I'm currently learning Full Stack Web Development.<br>I have a good knowledge in BackEnd and FrontEnd both.<br>I am also good in Problem Solving.
+💻 MERN Stack Developer with nearly 4 years of experience building scalable and high-performance web applications.
+
+🚀 Currently working with React.js, Node.js, Express.js, MongoDB, Redis, and AWS to develop modern full-stack solutions.
+
+🔧 Experienced in designing and developing RESTful APIs, authentication systems, real-time applications, and database-driven platforms.
+
+🌱 Continuously exploring System Design, Cloud Technologies, and advanced backend development concepts.
+
+🧩 Strong problem-solving skills with a passion for writing clean, maintainable, and efficient code.
+
+🤝 Open to collaborating on innovative projects and contributing to impactful products.
 
 <img align="right" alt="Coding" width="400" src="https://miro.medium.com/max/720/1*IRGHmiGsa16stedQvIaZfw.gif">
 
@@ -8,7 +18,29 @@ I'm currently working on React.js.<br>I'm currently learning Full Stack Web Deve
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/shashi__shekhar_singh) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/shashi-shekhar-singh) 
 
 # 💻 Tech Stack:
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
+## 💻 Tech Stack
+
+### 🚀 Backend
+Node.js • Express.js • TypeScript • JavaScript (ES6+) • REST APIs • JWT • Redis
+
+### 🎨 Frontend
+React.js • Next.js • Redux • HTML5 • CSS3 • Tailwind CSS • Material UI
+
+### 🗄️ Databases
+MongoDB • PostgreSQL • MySQL
+
+### ☁️ Cloud & DevOps
+AWS (EC2, S3, SES, IVS) • Docker • Jenkins
+
+### 🔧 Tools
+Git • GitHub • Postman
+
+### 🔌 Integrations
+Socket.IO • Firebase • Payment Gateway Integration
+
+### 🤖 AI Tools
+ChatGPT • Cursor • Claude
+
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=ShashiS07&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=ShashiS07&theme=dark&hide_border=false)<br/>
