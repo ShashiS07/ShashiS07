@@ -18,7 +18,6 @@
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/shashi__shekhar_singh) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/shashi-shekhar-singh) 
 
 # 💻 Tech Stack:
-## 💻 Tech Stack
 
 ### 🚀 Backend
 Node.js • Express.js • TypeScript • JavaScript (ES6+) • REST APIs • JWT • Redis
